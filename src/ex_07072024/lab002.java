@@ -1,4 +1,4 @@
-package ex_06072024;
+package ex_07072024;
 
 public class lab002 {
 }
